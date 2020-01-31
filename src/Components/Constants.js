@@ -1,0 +1,2 @@
+export const SALARY_ARRAY = [20000, 50000, 80000, 100000, 150000];
+
